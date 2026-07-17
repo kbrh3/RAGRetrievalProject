@@ -1,0 +1,79 @@
+[
+  {
+    "query": "Which papers discuss faithfulness evaluation methods that align well with human judgment?",
+    "gold_doc_ids": [
+      "paper_001",
+      "paper_006"
+    ]
+  },
+  {
+    "query": "What are the limitations of dense retrieval with fixed-length representations?",
+    "gold_doc_ids": [
+      "paper_007"
+    ]
+  },
+  {
+    "query": "Which work shows that hybrid retrieval improves scalability and performance?",
+    "gold_doc_ids": [
+      "paper_007"
+    ]
+  },
+  {
+    "query": "Which paper introduces visual source attribution for retrieval-augmented generation?",
+    "gold_doc_ids": [
+      "paper_002"
+    ]
+  },
+  {
+    "query": "Which papers focus on document chunking as an important factor in RAG performance?",
+    "gold_doc_ids": [
+      "paper_004",
+      "paper_028"
+    ]
+  },
+  {
+    "query": "Which surveys analyze evaluation methods for RAG systems?",
+    "gold_doc_ids": [
+      "paper_021",
+      "paper_023"
+    ]
+  },
+  {
+    "query": "Which dataset is designed for hallucination detection in RAG systems?",
+    "gold_doc_ids": [
+      "paper_013"
+    ]
+  },
+  {
+    "query": "Which paper proposes a benchmark using factual and non-factual statements to evaluate models?",
+    "gold_doc_ids": [
+      "paper_009"
+    ]
+  },
+  {
+    "query": "Which work studies whether language models can detect hallucinated references?",
+    "gold_doc_ids": [
+      "paper_022"
+    ]
+  },
+  {
+    "query": "Which papers focus on attribution methods in RAG or LLM systems?",
+    "gold_doc_ids": [
+      "paper_012",
+      "paper_029",
+      "paper_031"
+    ]
+  },
+  {
+    "query": "Which paper studies fairness-aware retrieval in RAG systems?",
+    "gold_doc_ids": [
+      "paper_017"
+    ]
+  },
+  {
+    "query": "Which paper argues that many factuality metrics are unreliable or can be manipulated?",
+    "gold_doc_ids": [
+      "paper_026"
+    ]
+  }
+]
